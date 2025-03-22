@@ -24,7 +24,7 @@ The project will be structured in the following stages:
 [Electricity Theft Detection Dataset](https://data.mendeley.com/datasets/c3c7329tjj/3)
 
 #### Dataset Overview
-This dataset shows the energy consumption patterns with labels indicating whether usage is theft or normal. Each record represents a consumer's electricity usage, recorded month-by-month over a continuous 12-month period.
+The dataset contains hourly energy consumption for 16 different types of consumers. The data includes several energy consumption measurements for several customers for one year (12 months).
 
 #### The Number of Records
 560,655
