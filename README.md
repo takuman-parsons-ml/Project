@@ -27,7 +27,7 @@ The project will be structured in the following stages:
 The dataset contains hourly energy consumption for 16 different types of consumers. The data includes several energy consumption measurements for several customers for one year (12 months).
 
 #### The Number of Records
-560,655
+560,655 (35,040 per customer type)
 
 #### Qualitative Variables
 -   **Consumer Type:** Category of consumer (e.g., FullServiceRestaurant, MidriseApartment, SuperMarket).
