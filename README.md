@@ -1,7 +1,7 @@
 # Final Project: Ideation and High-Level Description
 
 ## Overall Motivation
-For my final project, I have chosen two topics related to energy consumption. After graduation, I will be working as an analytics engineer for an energy tech company, and I see this as an excellent opportunity to familiarize myself with industry data while applying practical machine learning techniques. The energy sector offers numerous impactful applications for machine learning, making it an ideal area for exploration.
+For my final project, I chose two topics related to energy consumption. After graduation, I will be working for a company in the energy sector, so I see this as an excellent opportunity to familiarize myself with industry data while applying practical machine learning techniques. The energy sector offers many powerful applications for machine learning, making it an ideal area to explore.
 
 ## Idea 1: Energy Theft Detection
 
